@@ -6,3 +6,4 @@ São basicamente exercicios resolvidos por mim, no inicio da minha carreira no m
 - Exericios do URI -> alguns exercicios resolvidos [URI Online Judge](https://www.urionlinejudge.com.br/judge/en/login)
 - Desafios da OBI -> são exercicios/desafios de algumas edições passadas da [Olimpíada Brasileira de Informática](https://olimpiada.ic.unicamp.br/)
 - Exercicios variados -> são exercicios simples, dados pelos meus professores da faculdadea para apreender programação e logica.
+- Exercicios variados 2 -> são exercicios mais complexo, entre varios temos nesta pasta, exercicios de de estrutura de dados, lista, pilha e fila.
